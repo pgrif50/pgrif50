@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pgrif50
-- 👀 I’m interested in Developing my career prospects. As I am unemployed and didabled
+- 👀 I’m interested in Developing my career prospects. As I am unemployed and disabled
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
